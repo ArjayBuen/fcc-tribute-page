@@ -1,0 +1,27 @@
+body{
+    font-family:sans-serif;
+    }
+    #title,h3{
+    text-align:center;
+    }
+    p.center,#img-caption{
+      text-align:center;
+    }
+    .bold{
+      font-weight:700;
+    }
+    #img-div{
+      width:100%
+    }
+    #image{
+      display:block;
+      max-width:100%;
+      height:auto;
+      margin:0 auto;
+    }
+    #tribute-info{
+      width: 80%;
+        margin: 0 auto 10px auto;
+        max-width: 600px;
+        line-height:1.5;
+    }
